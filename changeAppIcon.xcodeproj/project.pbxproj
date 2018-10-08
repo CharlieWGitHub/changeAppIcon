@@ -15,6 +15,18 @@
 		E99982B3216AE6A600E7779C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E99982B2216AE6A600E7779C /* main.m */; };
 		E99982BD216AE6A600E7779C /* changeAppIconTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E99982BC216AE6A600E7779C /* changeAppIconTests.m */; };
 		E99982C8216AE6A600E7779C /* changeAppIconUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E99982C7216AE6A600E7779C /* changeAppIconUITests.m */; };
+		E99982D8216AEB0000E7779C /* androidIcon60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982D6216AEB0000E7779C /* androidIcon60@3x.png */; };
+		E99982D9216AEB0000E7779C /* androidIcon60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982D7216AEB0000E7779C /* androidIcon60@2x.png */; };
+		E99982E2216AF24F00E7779C /* githubIcon60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982DA216AF24E00E7779C /* githubIcon60@2x.png */; };
+		E99982E3216AF24F00E7779C /* googleIcon60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982DB216AF24E00E7779C /* googleIcon60@2x.png */; };
+		E99982E4216AF24F00E7779C /* githubIcon60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982DC216AF24E00E7779C /* githubIcon60@3x.png */; };
+		E99982E5216AF24F00E7779C /* facebookIcon60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982DD216AF24E00E7779C /* facebookIcon60@3x.png */; };
+		E99982E6216AF24F00E7779C /* officeIcon60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982DE216AF24E00E7779C /* officeIcon60@2x.png */; };
+		E99982E7216AF24F00E7779C /* officeIcon60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982DF216AF24F00E7779C /* officeIcon60@3x.png */; };
+		E99982E8216AF24F00E7779C /* googleIcon60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982E0216AF24F00E7779C /* googleIcon60@3x.png */; };
+		E99982E9216AF24F00E7779C /* facebookIcon60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982E1216AF24F00E7779C /* facebookIcon60@2x.png */; };
+		E99982EC216AF25900E7779C /* android_robot_60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982EA216AF25900E7779C /* android_robot_60@3x.png */; };
+		E99982ED216AF25900E7779C /* android_robot_60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E99982EB216AF25900E7779C /* android_robot_60@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +63,18 @@
 		E99982C3216AE6A600E7779C /* changeAppIconUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = changeAppIconUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E99982C7216AE6A600E7779C /* changeAppIconUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = changeAppIconUITests.m; sourceTree = "<group>"; };
 		E99982C9216AE6A600E7779C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E99982D6216AEB0000E7779C /* androidIcon60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "androidIcon60@3x.png"; sourceTree = "<group>"; };
+		E99982D7216AEB0000E7779C /* androidIcon60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "androidIcon60@2x.png"; sourceTree = "<group>"; };
+		E99982DA216AF24E00E7779C /* githubIcon60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "githubIcon60@2x.png"; sourceTree = "<group>"; };
+		E99982DB216AF24E00E7779C /* googleIcon60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "googleIcon60@2x.png"; sourceTree = "<group>"; };
+		E99982DC216AF24E00E7779C /* githubIcon60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "githubIcon60@3x.png"; sourceTree = "<group>"; };
+		E99982DD216AF24E00E7779C /* facebookIcon60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebookIcon60@3x.png"; sourceTree = "<group>"; };
+		E99982DE216AF24E00E7779C /* officeIcon60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "officeIcon60@2x.png"; sourceTree = "<group>"; };
+		E99982DF216AF24F00E7779C /* officeIcon60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "officeIcon60@3x.png"; sourceTree = "<group>"; };
+		E99982E0216AF24F00E7779C /* googleIcon60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "googleIcon60@3x.png"; sourceTree = "<group>"; };
+		E99982E1216AF24F00E7779C /* facebookIcon60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebookIcon60@2x.png"; sourceTree = "<group>"; };
+		E99982EA216AF25900E7779C /* android_robot_60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "android_robot_60@3x.png"; sourceTree = "<group>"; };
+		E99982EB216AF25900E7779C /* android_robot_60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "android_robot_60@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +125,7 @@
 		E99982A2216AE6A500E7779C /* changeAppIcon */ = {
 			isa = PBXGroup;
 			children = (
+				E99982D5216AEAF000E7779C /* icon */,
 				E99982A3216AE6A500E7779C /* AppDelegate.h */,
 				E99982A4216AE6A500E7779C /* AppDelegate.m */,
 				E99982A6216AE6A500E7779C /* ViewController.h */,
@@ -130,6 +155,25 @@
 				E99982C9216AE6A600E7779C /* Info.plist */,
 			);
 			path = changeAppIconUITests;
+			sourceTree = "<group>";
+		};
+		E99982D5216AEAF000E7779C /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				E99982E1216AF24F00E7779C /* facebookIcon60@2x.png */,
+				E99982DD216AF24E00E7779C /* facebookIcon60@3x.png */,
+				E99982DA216AF24E00E7779C /* githubIcon60@2x.png */,
+				E99982DC216AF24E00E7779C /* githubIcon60@3x.png */,
+				E99982EB216AF25900E7779C /* android_robot_60@2x.png */,
+				E99982EA216AF25900E7779C /* android_robot_60@3x.png */,
+				E99982DB216AF24E00E7779C /* googleIcon60@2x.png */,
+				E99982E0216AF24F00E7779C /* googleIcon60@3x.png */,
+				E99982DE216AF24E00E7779C /* officeIcon60@2x.png */,
+				E99982DF216AF24F00E7779C /* officeIcon60@3x.png */,
+				E99982D7216AEB0000E7779C /* androidIcon60@2x.png */,
+				E99982D6216AEB0000E7779C /* androidIcon60@3x.png */,
+			);
+			path = icon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,8 +280,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				E99982B0216AE6A600E7779C /* LaunchScreen.storyboard in Resources */,
+				E99982E8216AF24F00E7779C /* googleIcon60@3x.png in Resources */,
+				E99982D9216AEB0000E7779C /* androidIcon60@2x.png in Resources */,
+				E99982E3216AF24F00E7779C /* googleIcon60@2x.png in Resources */,
+				E99982E4216AF24F00E7779C /* githubIcon60@3x.png in Resources */,
+				E99982E5216AF24F00E7779C /* facebookIcon60@3x.png in Resources */,
 				E99982AD216AE6A600E7779C /* Assets.xcassets in Resources */,
+				E99982E9216AF24F00E7779C /* facebookIcon60@2x.png in Resources */,
+				E99982D8216AEB0000E7779C /* androidIcon60@3x.png in Resources */,
+				E99982E6216AF24F00E7779C /* officeIcon60@2x.png in Resources */,
+				E99982EC216AF25900E7779C /* android_robot_60@3x.png in Resources */,
+				E99982E7216AF24F00E7779C /* officeIcon60@3x.png in Resources */,
+				E99982E2216AF24F00E7779C /* githubIcon60@2x.png in Resources */,
 				E99982AB216AE6A500E7779C /* Main.storyboard in Resources */,
+				E99982ED216AF25900E7779C /* android_robot_60@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,7 +500,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.charlie.changeAppIcon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -461,7 +517,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.charlie.changeAppIcon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
